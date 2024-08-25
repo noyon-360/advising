@@ -1,0 +1,18 @@
+:root {
+    /* Primary Colors */
+    --primary-red: #E01B22;
+    --primary-blue: #004BA8;
+    --primary-white: #FFFFFF;
+    --primary-yellow: #FFDD00;
+
+    /* Additional Colors */
+    --light-blue: #ADD8E6;
+    --gray: #808080;
+    --dark-red: #8B0000;
+    --light-red: #FFA07A;
+    --dark-blue: #00008B;
+    --light-gray: #D3D3D3;
+    --dark-gray: #A9A9A9;
+    --off-white: #F8F8FF;
+    --teal: #008080;
+}
